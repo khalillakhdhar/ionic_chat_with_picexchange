@@ -1,1 +1,1 @@
-# ionic_chat_with_picexchange
+# ionic_chat_with_picture exchange
